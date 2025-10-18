@@ -10,7 +10,7 @@ This is a fullscope APi project works on web applications it demonstrates restfu
 - Delete unwanted recipes
 -View statistics dashboard
 
-***Features*** 
+#Features
  Complete CRUD operations  
  RESTful API design  
  External API integration (Spoonacular - properly cited)  
