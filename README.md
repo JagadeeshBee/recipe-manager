@@ -48,8 +48,6 @@ This project demonstrates mastery of:
 -  Error handling for external services
 
 
----
-
 ##  Tech
 
 ### Backend
@@ -97,7 +95,7 @@ npm run dev
 
 
 **Expected Output:**
-```
+
 
  Recipe Manager API Server
  Server running on http://localhost:3000
@@ -118,7 +116,7 @@ npm run dev
 
 **Expected Output:**
 
- Local:   http://localhost:5173/
+on Local:   http://localhost:5173/
 
 
 using front end 
@@ -157,12 +155,9 @@ Click:  View
 
  UPDATE 
 
-Postman/curl:
+Postman
 PATCH /api/recipes/{id}
-Body: {"title": "GRADED"}
-Returns 200 OK
-Frontend: Refresh
-Title changed to "GRADED"
+
 
  DELETE
 
